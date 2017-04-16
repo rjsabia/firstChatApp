@@ -1,0 +1,16 @@
+{
+  "name": "first-chat-app",
+  "version": "1.0.0",
+  "description": "building first chat app with socket io",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Russell Sabia",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.2",
+    "morgan": "^1.8.1",
+    "socket.io": "^1.7.3"
+  }
+}
